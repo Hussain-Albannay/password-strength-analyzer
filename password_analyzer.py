@@ -48,6 +48,6 @@ def analyze_password(password):
 
 
 result, score = analyze_password(password)
-print("Strength:", result, "Score:", score, "/ 100")
+print("Strength:", result, "| Score:", score, "/ 100")
 
 
