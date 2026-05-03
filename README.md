@@ -16,6 +16,7 @@ A Python program that demonstrates basic password strength evaluation techniques
 ## Example
 
 Enter password: Husa!n2026
+
 Strength: Strong | Score: 100 / 100
 
 
